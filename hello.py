@@ -1,1 +1,2 @@
-print("Hello DevOps")
+import pyfiglet
+print(pyfiglet.figlet_format("DevOps"))
