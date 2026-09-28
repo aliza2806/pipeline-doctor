@@ -10,4 +10,4 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: Run hello script
-        run: python hello.py
+        run: python src/hello.py
